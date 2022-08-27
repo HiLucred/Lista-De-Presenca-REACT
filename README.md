@@ -1,15 +1,15 @@
 # Lista-De-Presenca-REACT
 
-🖥 Contribuindo ou testando localmente
+🖥 Como testar o projeto:
 
-# Clone o repositório 
+## Clone o repositório 
 
-$ git clone github.com/seu-usuario/repositorio.git
+$ git clone https://github.com/HiLucred/Lista-De-Presenca-REACT
 
-# Instale as dependências 
+## Instale as dependências 
 
 $ npm install
 
-# Rode o projeto
+## Rode o projeto
 
 $ npm run dev
