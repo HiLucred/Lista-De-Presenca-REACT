@@ -1,4 +1,4 @@
-# Lista-De-Presenca-REACT
+# Lista de Presença em React
 
 🖥 Como testar o projeto:
 
